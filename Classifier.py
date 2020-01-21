@@ -27,7 +27,7 @@ from keras.layers import Dense
 
 
 # Importing the dataset
-file = "/home/vaibhav/Downloads/p020643.psv"
+file = "/home/author/Downloads/sample.psv"
 # As this is a PSV file we convert it to CSV 
 dataset =pd.read_csv(file,skiprows=1,sep='|').fillna(0)
 
