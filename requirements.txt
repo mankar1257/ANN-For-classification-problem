@@ -1,0 +1,10 @@
+I have developed this model on the Spider 
+
+required libraries:
+
+Tensorflow
+Keras
+Scikit-learn
+Matplotlib
+Numpy
+
