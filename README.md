@@ -7,4 +7,4 @@ for the ANN model please check  Classifier.py
 
 when you have multipal PSV files the the python code to convert this files to CSV, is given in PSVfiles-TO-CSVfiles.py
 
-for  example dataset used in the code reffer to the simple.psv 
+for  example dataset used in the code reffer to the sample.psv 
